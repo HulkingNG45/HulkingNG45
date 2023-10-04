@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HulkingNG45
 - 👀 I’m interested in Software engineering 
-- 🌱 I’m currently learning   JAVA
+- 🌱 I’m currently learning   Python
 
 <!---
 HulkingNG45/HulkingNG45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
